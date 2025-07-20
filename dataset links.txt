@@ -1,0 +1,12 @@
+## Datasets
+- Full links to datasets can be found here
+-Wildfire dataset
+https://apps.fs.usda.gov/fsgisx03/rest/services/wo_spf_fam/Nat_BurnProbability/ImageServer
+https://data-usfs.hub.arcgis.com/datasets/7cea729c213e409aade5a2838293f09e/about
+
+-Weather dataset
+https://www.weather.gov/fire/
+https://www.utilitydive.com/spons/integrating-advanced-weather-data-with-utility-asset-outage-analysis-to-qua/652592/
+
+Infrastructure dataset 
+https://resilience.climate.gov/datasets/fedmaps::u-s-electric-power-transmission-lines/explore
