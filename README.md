@@ -9,6 +9,7 @@ This project analyzes wildfire risk and power outage probabilities using weather
 
 ## Datasets
 - Full links to datasets can be found here
+
 -Wildfire dataset
 https://apps.fs.usda.gov/fsgisx03/rest/services/wo_spf_fam/Nat_BurnProbability/ImageServer
 https://data-usfs.hub.arcgis.com/datasets/7cea729c213e409aade5a2838293f09e/about
